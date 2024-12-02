@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#output {
+    margin: auto;
+    border: 1px solid;
+    width:80%;
+    font-size:1.5rem;
+}
+
+.center {
+    text-align: center;
+}
